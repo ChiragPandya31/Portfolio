@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4da241e.css",
+    "main.js": "/static/js/main.54799b09.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/Chirag-Resume-1.pdf": "/static/media/Chirag-Resume-1.e545c5af1e03fb3b9e00.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.0c611f7b8a9c720abc1d.jpg",
+    "static/media/logo_3.png": "/static/media/logo_3.9b7597a9fffc801c158c.png",
+    "static/media/bubblegame.png": "/static/media/bubblegame.6cc02c2977eba08dbc5f.png",
+    "static/media/livetrack.png": "/static/media/livetrack.b87100298feef72ecbbd.png",
+    "static/media/spotifyClone.jpg": "/static/media/spotifyClone.2fcb4f5eeba67c461fc2.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.c4da241e.css.map": "/static/css/main.c4da241e.css.map",
+    "main.54799b09.js.map": "/static/js/main.54799b09.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4da241e.css",
+    "static/js/main.54799b09.js"
+  ]
+}
