@@ -45,7 +45,7 @@ function Projects() {
               title="StudyMate"
               description="StudyMate is a full-stack MERN web app built to simplify access to academic materials. Students can upload and browse semester-wise notes, lab manuals, and PYQs. Includes AI-powered quiz battles, PDF pattern analysis, and an admin panel for content control. Designed for responsiveness and ease of use."
               ghLink="https://github.com/ChiragPandya31/StudyMate-client"
-              demoLink="https://studymate-theta.vercel.app/"
+              demoLink="https://studymate-v1.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -116,3 +116,4 @@ function Projects() {
 }
 
 export default Projects;
+
