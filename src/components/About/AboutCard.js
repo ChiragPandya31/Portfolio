@@ -35,7 +35,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#9490eb" }}>
-          "Dream fearlessly. Impact deeply."{" "}
+          "The errors you don't fix, becomes your limit."{" "}
           </p>
           <footer className="blockquote-footer">Chirag</footer>
         </blockquote>
@@ -45,3 +45,4 @@ function AboutCard() {
 }
 
 export default AboutCard;
+
