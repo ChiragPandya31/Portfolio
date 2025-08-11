@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Chirag Pandya</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} CP</h3>
+          <h3>Copyright © {year} Chirag</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -69,3 +69,4 @@ function Footer() {
 }
 
 export default Footer;
+
