@@ -36,7 +36,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#9490eb" }}>
-           The errors you don't fix, becomes your limits.{" "}
+           "The errors you don't fix, becomes your limits."{" "}
           </p>
        <h5 style={{ color: "#9490eb" }}>~Chirag</h5>
         </blockquote>
@@ -46,6 +46,7 @@ function AboutCard() {
 }
 
 export default AboutCard;
+
 
 
 
