@@ -19,17 +19,18 @@ function AboutCard() {
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
+            
             <li className="about-activity">
               <ImPointRight /> Reading
+            </li>
+              <li className="about-activity">
+              <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
               <ImPointRight /> Sports
             </li>
             <li className="about-activity">
-              <ImPointRight /> Singing
+              <ImPointRight /> Music
             </li>
             
           </ul>
@@ -45,6 +46,7 @@ function AboutCard() {
 }
 
 export default AboutCard;
+
 
 
 
