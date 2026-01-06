@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Chirag Pandya </span>
             from <span className="purple"> Gujarat, India.</span>
             <br />
-            I am currently pursuing B.Tech in CSE at C.U. Shah University.
+            I am currently pursuing B.Tech in CE at C.U. Shah University.
             <br />
             I have completed Diploma in CE at CUSP surendranagar.
             <br />
@@ -46,6 +46,7 @@ function AboutCard() {
 }
 
 export default AboutCard;
+
 
 
 
