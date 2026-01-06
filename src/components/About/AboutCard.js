@@ -37,7 +37,7 @@ function AboutCard() {
           <p style={{ color: "#9490eb" }}>
            The errors you don't fix, becomes your limits.{" "}
           </p>
-          <footer className="blockquote-footer">Chirag</footer>
+       <h3>~Chirag</h3>
         </blockquote>
       </Card.Body>
     </Card>
@@ -45,6 +45,7 @@ function AboutCard() {
 }
 
 export default AboutCard;
+
 
 
 
