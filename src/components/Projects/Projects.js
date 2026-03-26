@@ -10,7 +10,7 @@ import AppleiColne from "../../Assets/Projects/applelogo.png";
 import StudyMate from "../../Assets/Projects/studymateimg.png";
 import elearning from "../../Assets/Projects/elearning.png";
 import AuthPost from "../../Assets/Projects/authpost.png";
-import RestrauntOS from "../../Assets/Projects/restraunt.png";
+import RestrauntOS from "../../Assets/Projects/RestrauntOS.png";
 
 function Projects() {
   return (
