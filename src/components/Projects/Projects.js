@@ -10,6 +10,7 @@ import AppleiColne from "../../Assets/Projects/applelogo.png";
 import StudyMate from "../../Assets/Projects/studymateimg.png";
 import elearning from "../../Assets/Projects/elearning.png";
 import AuthPost from "../../Assets/Projects/authpost.png";
+import RestrauntOS from "../../Assets/Projects/restraunt.png";
 
 function Projects() {
   return (
@@ -38,6 +39,19 @@ function Projects() {
           Here are few projects I've worked on.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+       <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ResturanOS}
+              isBlog={false}
+              title="ResturanOS"
+              description="RestranutOS is a full-stack MERN web app built to simplify access to academic materials. Students can upload and browse semester-wise notes, lab manuals, and PYQs. Includes AI-powered quiz battles, PDF pattern analysis, and an admin panel for content control. Designed for responsiveness and ease of use."
+              ghLink="https://github.com/ChiragPandya31/RestrauntOS"
+              demoLink="https://restraunt-os.vercel.app/"
+            />
+          </Col>
+
+                
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={StudyMate}
