@@ -45,7 +45,7 @@ function Projects() {
               imgPath={ResturanOS}
               isBlog={false}
               title="ResturanOS"
-              description="RestranutOS is a full-stack MERN web app built to simplify access to academic materials. Students can upload and browse semester-wise notes, lab manuals, and PYQs. Includes AI-powered quiz battles, PDF pattern analysis, and an admin panel for content control. Designed for responsiveness and ease of use."
+              description="RestranutOS is a production-ready restaurant management system. Waiter can place what customer wants to order and proceeds to kitchen section proper category-wise items, kitchen staff can prepare orders and serve through waiter. Includes admin panel for all the controls, managing orders, users, items, revenue, and reports. Designed for responsiveness and ease of use."
               ghLink="https://github.com/ChiragPandya31/RestrauntOS"
               demoLink="https://restraunt-os.vercel.app/"
             />
