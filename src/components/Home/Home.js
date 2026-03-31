@@ -15,12 +15,12 @@ function Home() {
         <meta name="keywords" content="Chirag Pandya, Developer, React.js, Portfolio" />
         <meta property="og:title" content="Chirag Pandya - Developer Portfolio" />
         <meta property="og:description" content="Chirag Pandya's personal website showcasing development skills and projects using React.js." />
-        <meta property="og:image" content="https://jaydipsatani.com/readme-img.png" />
+        <meta property="og:image" content="https://chiragpandya.com/readme-img.png" />
         <meta property="og:url" content="https://chiragpandya.com" />
         <meta property="og:type" content="website" />
         <meta name="twitter:title" content="Chirag Pandya - Developer Portfolio" />
         <meta name="twitter:description" content="Chirag Pandya's personal website showcasing development skills and projects using React.js." />
-        <meta name="twitter:image" content="https://jaydipsatani.com/readme-img.png" />
+        <meta name="twitter:image" content="https://chiragpandya.com/readme-img.png" />
         <meta name="twitter:card" content="summary_large_image" />
       </Helmet>
 
